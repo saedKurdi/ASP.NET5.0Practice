@@ -1,0 +1,9 @@
+﻿@model FastFoodsViewModel 
+<fastfood-list>
+    @foreach (var fastFood in Model.FastFoods)
+    {
+       <fast-food fastfood="@fastFood">
+       </fast-food>
+    }
+</fastfood-list>
+<a asp-controller="FastFood" asp-action="Add">Add New Product</a>

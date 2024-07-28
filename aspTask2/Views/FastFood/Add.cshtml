@@ -1,0 +1,31 @@
+﻿@model AddFastFoodViewModel
+<section>
+    <form style="background-color:antiquewhite;border-radius:10px;font-family:'Arial Rounded MT';justify-content:center;align-items:center;display:flex;flex-direction:column;gap:30px;" asp-controller="FastFood" asp-action="Add">
+        <div>
+            <label asp-for="@Model.FastFood.Name"></label>
+            <input asp-for="@Model.FastFood.Name" />
+            <span style="color:red" asp-validation-for="@Model.FastFood.Name"></span>
+        </div>
+        <div>
+            <label asp-for="@Model.FastFood.Description"></label>
+            <input asp-for="@Model.FastFood.Description" />
+            <span style="color:red" asp-validation-for="@Model.FastFood.Description"></span>
+        </div>
+        <div>
+            <label asp-for="@Model.FastFood.Price"></label>
+            <input asp-for="@Model.FastFood.Price" />
+            <span style="color:red" asp-validation-for="@Model.FastFood.Price"></span>
+        </div>
+        <div>
+            <label asp-for="@Model.FastFood.Discount"></label>
+            <input asp-for="@Model.FastFood.Discount" />
+            <span style="color:red" asp-validation-for="@Model.FastFood.Discount"></span>
+        </div>
+        <div>
+            <label asp-for="@Model.FastFood.ImagePath"></label>
+            <input asp-for="@Model.FastFood.ImagePath" />
+        </div>
+        <a href="/FastFood">Cancel</a>
+        <button type="submit">Add</button>
+    </form>
+</section>

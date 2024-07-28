@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspTask2", "aspTask2\aspTask2.csproj", "{EFEC37DF-5CA4-421B-9590-910EFCF11DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEC37DF-5CA4-421B-9590-910EFCF11DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC37DF-5CA4-421B-9590-910EFCF11DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC37DF-5CA4-421B-9590-910EFCF11DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC37DF-5CA4-421B-9590-910EFCF11DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A750859-7DBC-4685-9DA2-75777B678CD2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,110 @@
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.exe
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.deps.json
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.runtimeconfig.json
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.dll
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.pdb
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.Views.dll
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.Views.pdb
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.TagHelpers.input.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.TagHelpers.output.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorCoreGenerate.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.Views.pdb
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\scopedcss\bundle\aspTask2.styles.css
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\aspTask2.StaticWebAssets.Manifest.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\aspTask2.StaticWebAssets.Pack.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.aspTask2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.build.aspTask2.props
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.aspTask2.props
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.aspTask2.props
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.dll
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\refint\aspTask2.dll
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.pdb
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\ref\aspTask2.dll
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.csproj.Up2Date
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\FastFood\Index.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\cheeseburger.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\chicken nuggets.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\chicken sandwich.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\fish tacos.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\french fries.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\hot dog.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\milkshake.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\onion rings.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\pepperoni pizza.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\veggie burger.jpg
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\FastFood\Edit.cshtml.g.cs
+C:\Users\Asus\source\repos\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.exe
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\cheeseburger.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\chicken nuggets.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\chicken sandwich.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\fish tacos.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\french fries.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\hot dog.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\milkshake.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\onion rings.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\pepperoni pizza.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\wwwroot\images\fastFoodImages\veggie burger.jpg
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.Views.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\bin\Debug\net5.0\aspTask2.Views.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.sourcelink.json
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.TagHelpers.input.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.TagHelpers.output.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorCoreGenerate.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\FastFood\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\FastFood\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.Views.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\scopedcss\bundle\aspTask2.styles.css
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\aspTask2.StaticWebAssets.Manifest.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\aspTask2.StaticWebAssets.Pack.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.aspTask2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.build.aspTask2.props
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.aspTask2.props
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.aspTask2.props
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\refint\aspTask2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\ref\aspTask2.dll
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\aspTask2.csproj.Up2Date
+C:\Users\Asus\OneDrive\Рабочий стол\IT STEP\My Drive\ASP.NET\ELVIN CAMALZADE\Tasks\aspTask2\aspTask2\obj\Debug\net5.0\Razor\Views\FastFood\Add.cshtml.g.cs
